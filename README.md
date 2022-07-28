@@ -1,5 +1,9 @@
 # fresh-delivery
-生鲜配送平台 联系方式：QQ262377509
+生鲜配送平台
+微信小程序
+PC后台
+后端采用JAVA语言
+联系方式：QQ262377509
 
 # 演示地址：
 https://demo.gnengwl.com:18443/
